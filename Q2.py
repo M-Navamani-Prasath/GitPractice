@@ -10,3 +10,5 @@ for char in string:
         count_dict[char] = 1
 
 print(count_dict)
+
+#letters = {letter:string.count(letter) for letter in string}
